@@ -1,4 +1,8 @@
 _repo: Myths-and-Legends-of-British-North-America_48409
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48409-h/images/cover.jpg
 creator:
   author:
     agent_name: Judson, Katharine Berry
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '943'
     url: http://www.gutenberg.org/2009/agents/943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48409#Myths-and-Legends-of-British-North-America
 gutenberg_issued: '2015-03-05'
 gutenberg_type: Text
 identifiers:
